@@ -1,0 +1,8 @@
+**/my_*
+**/try_*
+**/*.log
+**/.git/
+**/.terraform/
+**/*.auto.tfvars
+! **/*.example
+main.tf

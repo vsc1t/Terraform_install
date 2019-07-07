@@ -1,6 +1,10 @@
 # Install and configure Terraform and GO on Ubuntu
 ## Provider for vscale will be installed also
-#### Just clone repo, cd into it and start  terraform_install_launcher.sh
+#### Just clone repo, cd into it and start terraform_install_launcher.sh
+```bash
+git clone https://github.com/vsc1t/terraform_install.git && \
+cd terraform_install && ./terraform_install_launcher.sh
+```
 1. GO snap will be installed and configured
 
 	Configurations:
